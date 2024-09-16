@@ -1,0 +1,29 @@
+from {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px dashed #111111;
+    height: 300px;
+    width: 500px;
+    cursor: pointer;
+    border-radius: 5px;
+
+
+
+}
+
+.uploaded-row {
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    border-radius: 5px;
+    background-color: #dbdbdb;
+}
+
+.upload-content {
+    display: flex;
+    align-items: center;
+}
